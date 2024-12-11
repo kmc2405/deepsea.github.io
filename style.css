@@ -113,7 +113,7 @@
         opacity: 50%;
         filter: blur(10px);
         animation: movement 2s ease-in-out infinite, blurEffect 4s ease-in-out infinite;
-        background: url(./img/sub_1.svg) no-repeat;
+        background: url(./img/sub_1.png) no-repeat;
         background-size: cover;
         transition: 0.4s ease;
     }
